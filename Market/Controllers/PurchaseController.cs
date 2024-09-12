@@ -7,9 +7,7 @@ using Market.Models;
 using Market.Services.Interfaces;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Org.BouncyCastle.Utilities;
 using System.Security.Claims;
-using static Mysqlx.Crud.Order.Types;
 
 namespace Market.Controllers
 {

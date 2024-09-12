@@ -1,6 +1,4 @@
-﻿using static Mysqlx.Crud.Order.Types;
-
-namespace Market.Models
+﻿namespace Market.Models
 {
     public class Purchase
     {

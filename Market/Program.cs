@@ -70,7 +70,7 @@ namespace Market
             // Configuración de la base de datos
             var connectionString = configuration.GetConnectionString("DataBase");
             services.AddDbContext<ApplicationDbContext>(options =>
-                options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
+                options.UseNpgsql(connectionString));
 
             // Registro de servicios y repositorios
             services.AddScoped<IUserService, UserService>();

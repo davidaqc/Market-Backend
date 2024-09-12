@@ -1,9 +1,6 @@
-﻿using Market.Models;
-using Market.Services.Interfaces;
+﻿using Market.Services.Interfaces;
 using Microsoft.Extensions.Options;
-using Org.BouncyCastle.Asn1.Ocsp;
 using System.Net.Mail;
-using System.Security.Policy;
 
 namespace Market.Services
 {

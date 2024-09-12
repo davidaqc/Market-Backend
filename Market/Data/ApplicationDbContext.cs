@@ -1,8 +1,5 @@
-﻿using Market.DTOs.Product;
-using Market.Models;
+﻿using Market.Models;
 using Microsoft.EntityFrameworkCore;
-using System;
-using static Mysqlx.Crud.Order.Types;
 
 namespace Market.Data
 {

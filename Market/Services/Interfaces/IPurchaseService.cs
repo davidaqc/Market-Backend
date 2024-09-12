@@ -1,9 +1,6 @@
 ﻿using Market.DTOs.Bill;
-using Market.DTOs.Product;
 using Market.DTOs.Purchase;
 using Market.Models;
-using Microsoft.AspNetCore.Mvc.RazorPages;
-using MySqlX.XDevAPI.Common;
 
 namespace Market.Services.Interfaces
 {
