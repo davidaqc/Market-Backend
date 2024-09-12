@@ -1,6 +1,6 @@
 # Market
 
-El proyecto "Market" ha sido desarrollado por Luis Fernando y David Quesada. En este repositorio se encuentra el Backend del proyecto, mientras que el Frontend se encuentra [aquí](https://github.com/davidaqc/Market-Frontend).
+El proyecto "Mundo Alegre" ha sido desarrollado por David Quesada. En este repositorio se encuentra el Backend del proyecto, mientras que el Frontend se encuentra [aquí](https://github.com/davidaqc/Market-Frontend).
 
 ## Descripción
 
